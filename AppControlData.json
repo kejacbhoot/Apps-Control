@@ -1,3 +1,6 @@
 {
-"verNum" :1
+  "verNum" :1,
+  "link" : "yes" ,
+  "link2" : "no",
+  "linkApple" : "no"
 }
